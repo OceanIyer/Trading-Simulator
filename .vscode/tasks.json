@@ -1,0 +1,26 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Build C++17",
+            "type": "shell",
+            "command": "g++",
+            "args": [
+                "-std=c++17",
+                "*.cpp",
+                "-o",
+                "main"
+            ],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            },
+            "problemMatcher": ["$gcc"],
+            "options": {
+                "env": {
+                    "PATH": "C:\\msys32\\mingw64\\bin"
+                }
+            }
+        }
+    ]
+}

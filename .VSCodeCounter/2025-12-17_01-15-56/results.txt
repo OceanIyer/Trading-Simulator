@@ -1,0 +1,48 @@
+Date : 2025-12-17 01:15:56
+Directory : d:\Documents\University\Object Oriented Programming\C++ testubg\midterm\src
+Total : 22 files,  1026504 codes, 75 comments, 211 blanks, all 1026790 lines
+
+Languages
++----------+------------+------------+------------+------------+------------+
+| language | files      | code       | comment    | blank      | total      |
++----------+------------+------------+------------+------------+------------+
+| CSV      |          3 |  1,025,315 |          0 |         12 |  1,025,327 |
+| C++      |         10 |        952 |         58 |        147 |      1,157 |
+| C        |          9 |        237 |         17 |         52 |        306 |
++----------+------------+------------+------------+------------+------------+
+
+Directories
++------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                                           | files      | code       | comment    | blank      | total      |
++------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                              |         22 |  1,026,504 |         75 |        211 |  1,026,790 |
++------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++------------------------------------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| filename                                                                                       | language | code       | comment    | blank      | total      |
++------------------------------------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| d:\Documents\University\Object Oriented Programming\C++ testubg\midterm\src\20200317.csv       | CSV      |      3,541 |          0 |          9 |      3,550 |
+| d:\Documents\University\Object Oriented Programming\C++ testubg\midterm\src\20200601.csv       | CSV      |  1,021,772 |          0 |          1 |  1,021,773 |
+| d:\Documents\University\Object Oriented Programming\C++ testubg\midterm\src\Aggregator.cpp     | C++      |         65 |          0 |         10 |         75 |
+| d:\Documents\University\Object Oriented Programming\C++ testubg\midterm\src\Aggregator.h       | C        |         15 |          0 |          5 |         20 |
+| d:\Documents\University\Object Oriented Programming\C++ testubg\midterm\src\CSVReader.cpp      | C++      |        100 |          1 |         13 |        114 |
+| d:\Documents\University\Object Oriented Programming\C++ testubg\midterm\src\CSVReader.h        | C        |         18 |          0 |          5 |         23 |
+| d:\Documents\University\Object Oriented Programming\C++ testubg\midterm\src\CandleStick.cpp    | C++      |         19 |          0 |          4 |         23 |
+| d:\Documents\University\Object Oriented Programming\C++ testubg\midterm\src\CandleStick.h      | C        |         23 |          0 |          6 |         29 |
+| d:\Documents\University\Object Oriented Programming\C++ testubg\midterm\src\Credentials.csv    | CSV      |          2 |          0 |          2 |          4 |
+| d:\Documents\University\Object Oriented Programming\C++ testubg\midterm\src\MerkelMain.cpp     | C++      |        297 |          8 |         37 |        342 |
+| d:\Documents\University\Object Oriented Programming\C++ testubg\midterm\src\MerkelMain.h       | C        |         32 |          1 |          6 |         39 |
+| d:\Documents\University\Object Oriented Programming\C++ testubg\midterm\src\OrderBook.cpp      | C++      |        153 |         43 |         20 |        216 |
+| d:\Documents\University\Object Oriented Programming\C++ testubg\midterm\src\OrderBook.h        | C        |         22 |          8 |          7 |         37 |
+| d:\Documents\University\Object Oriented Programming\C++ testubg\midterm\src\OrderBookEntry.cpp | C++      |         27 |          0 |          3 |         30 |
+| d:\Documents\University\Object Oriented Programming\C++ testubg\midterm\src\OrderBookEntry.h   | C        |         39 |          0 |          7 |         46 |
+| d:\Documents\University\Object Oriented Programming\C++ testubg\midterm\src\User.cpp           | C++      |          4 |          0 |          1 |          5 |
+| d:\Documents\University\Object Oriented Programming\C++ testubg\midterm\src\User.h             | C        |         49 |          0 |          7 |         56 |
+| d:\Documents\University\Object Oriented Programming\C++ testubg\midterm\src\UserAuth.cpp       | C++      |        164 |          0 |         44 |        208 |
+| d:\Documents\University\Object Oriented Programming\C++ testubg\midterm\src\UserAuth.h         | C        |         18 |          0 |          3 |         21 |
+| d:\Documents\University\Object Oriented Programming\C++ testubg\midterm\src\Wallet.cpp         | C++      |        114 |          6 |         13 |        133 |
+| d:\Documents\University\Object Oriented Programming\C++ testubg\midterm\src\Wallet.h           | C        |         21 |          8 |          6 |         35 |
+| d:\Documents\University\Object Oriented Programming\C++ testubg\midterm\src\main.cpp           | C++      |          9 |          0 |          2 |         11 |
+| Total                                                                                          |          |  1,026,504 |         75 |        211 |  1,026,790 |
++------------------------------------------------------------------------------------------------+----------+------------+------------+------------+------------+

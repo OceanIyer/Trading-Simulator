@@ -1,0 +1,24 @@
+"filename", "language", "C", "C++", "CSV", "comment", "blank", "total"
+"d:\Documents\University\Object Oriented Programming\C++ testubg\midterm\src\20200317.csv", "CSV", 0, 0, 3541, 0, 9, 3550
+"d:\Documents\University\Object Oriented Programming\C++ testubg\midterm\src\20200601.csv", "CSV", 0, 0, 1021772, 0, 1, 1021773
+"d:\Documents\University\Object Oriented Programming\C++ testubg\midterm\src\Aggregator.cpp", "C++", 0, 65, 0, 0, 10, 75
+"d:\Documents\University\Object Oriented Programming\C++ testubg\midterm\src\Aggregator.h", "C", 15, 0, 0, 0, 5, 20
+"d:\Documents\University\Object Oriented Programming\C++ testubg\midterm\src\CSVReader.cpp", "C++", 0, 100, 0, 1, 13, 114
+"d:\Documents\University\Object Oriented Programming\C++ testubg\midterm\src\CSVReader.h", "C", 18, 0, 0, 0, 5, 23
+"d:\Documents\University\Object Oriented Programming\C++ testubg\midterm\src\CandleStick.cpp", "C++", 0, 19, 0, 0, 4, 23
+"d:\Documents\University\Object Oriented Programming\C++ testubg\midterm\src\CandleStick.h", "C", 23, 0, 0, 0, 6, 29
+"d:\Documents\University\Object Oriented Programming\C++ testubg\midterm\src\Credentials.csv", "CSV", 0, 0, 2, 0, 2, 4
+"d:\Documents\University\Object Oriented Programming\C++ testubg\midterm\src\MerkelMain.cpp", "C++", 0, 297, 0, 8, 37, 342
+"d:\Documents\University\Object Oriented Programming\C++ testubg\midterm\src\MerkelMain.h", "C", 32, 0, 0, 1, 6, 39
+"d:\Documents\University\Object Oriented Programming\C++ testubg\midterm\src\OrderBook.cpp", "C++", 0, 153, 0, 43, 20, 216
+"d:\Documents\University\Object Oriented Programming\C++ testubg\midterm\src\OrderBook.h", "C", 22, 0, 0, 8, 7, 37
+"d:\Documents\University\Object Oriented Programming\C++ testubg\midterm\src\OrderBookEntry.cpp", "C++", 0, 27, 0, 0, 3, 30
+"d:\Documents\University\Object Oriented Programming\C++ testubg\midterm\src\OrderBookEntry.h", "C", 39, 0, 0, 0, 7, 46
+"d:\Documents\University\Object Oriented Programming\C++ testubg\midterm\src\User.cpp", "C++", 0, 4, 0, 0, 1, 5
+"d:\Documents\University\Object Oriented Programming\C++ testubg\midterm\src\User.h", "C", 49, 0, 0, 0, 7, 56
+"d:\Documents\University\Object Oriented Programming\C++ testubg\midterm\src\UserAuth.cpp", "C++", 0, 164, 0, 0, 44, 208
+"d:\Documents\University\Object Oriented Programming\C++ testubg\midterm\src\UserAuth.h", "C", 18, 0, 0, 0, 3, 21
+"d:\Documents\University\Object Oriented Programming\C++ testubg\midterm\src\Wallet.cpp", "C++", 0, 114, 0, 6, 13, 133
+"d:\Documents\University\Object Oriented Programming\C++ testubg\midterm\src\Wallet.h", "C", 21, 0, 0, 8, 6, 35
+"d:\Documents\University\Object Oriented Programming\C++ testubg\midterm\src\main.cpp", "C++", 0, 9, 0, 0, 2, 11
+"Total", "-", 237, 952, 1025315, 75, 211, 1026790
