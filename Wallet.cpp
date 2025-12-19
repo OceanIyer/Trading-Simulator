@@ -191,7 +191,6 @@ void Wallet::printRecentTransactions(int n)
         std::stringstream ss(lines[i]);
         std::string timestamp, type, product, priceStr, amountStr;
 
-        // Assuming CSV format: timestamp,type,product,price,amount
         std::getline(ss, timestamp, ',');
         std::getline(ss, type, ',');
         std::getline(ss, product, ',');
